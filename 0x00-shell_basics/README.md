@@ -1,0 +1,1 @@
+Learn about "The Shell," shortcuts for Bash, man pages, LTS, and Shebang.
