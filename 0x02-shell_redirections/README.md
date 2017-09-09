@@ -5,8 +5,8 @@
 4. Displays the last 10 lines of /etc/passwd
 5. Displays the first 10 lines of /etc/passwd
 6. Script that displays third line of iacta file
-7. Script that write the output of "ls -la" into ls_cwd_content file
-8. Script that creates file containing the text Holberton School
+7. Script that creates file containing the text Holberton School
+8. Script that writes the output of "ls -la" into ls_cwd_content file
 9. Script that duplicates line
 10. Script that deletes all regular files (not directories) with .js extension
 11. Script that counts the number of firectories and sub-directories in the current directory
